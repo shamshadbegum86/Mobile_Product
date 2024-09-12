@@ -1,0 +1,13 @@
+S.No.^English^Hindi^Telugu
+1^Red ^Laal^Arupu Rangu
+2^Blue^Neela^Neeli Rangu
+3^Green^Hara^Aaku Pacha Rangu
+4^Yellow^Peela^Pasupu Rangu
+5^Pink^Gulaabi^Roja Rangu
+6^Orange^Narangi^Narinja Rangu
+7^Voilet^Byingani^Vanga Putha Rangu
+8^Gray^Dhumaila^Budidha Rangu
+9^White^Safhed^Telupu
+10^Black^Kaala^Nalupu
+11^Silver^Chandhi^Vendi Rangu
+12^Golden^Sunehra^Bangaaru Chaya
